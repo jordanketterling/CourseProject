@@ -1,0 +1,8 @@
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish.Model\bin\Debug\netcoreapp2.2\Zen-ish.Model.deps.json
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish.Model\bin\Debug\netcoreapp2.2\Zen-ish.Model.dll
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish.Model\obj\Debug\netcoreapp2.2\Zen-ish.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish.Model\obj\Debug\netcoreapp2.2\Zen-ish.Model.AssemblyInfoInputs.cache
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish.Model\obj\Debug\netcoreapp2.2\Zen-ish.Model.AssemblyInfo.cs
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish.Model\bin\Debug\netcoreapp2.2\Zen-ish.Model.runtimeconfig.json
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish.Model\bin\Debug\netcoreapp2.2\Zen-ish.Model.runtimeconfig.dev.json
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish.Model\obj\Debug\netcoreapp2.2\Zen-ish.Model.csprojAssemblyReference.cache

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jordan Ketterling\\Desktop\\Project\\design\\Zen-ish\\Zen-ish\\Zen-ish.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jordan Ketterling\\Desktop\\Project\\design\\Zen-ish\\Zen-ish\\Zen-ish.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jordan Ketterling\\Desktop\\Project\\design\\Zen-ish\\Zen-ish\\Zen-ish.csproj",
+        "projectName": "Zen-ish",
+        "projectPath": "C:\\Users\\Jordan Ketterling\\Desktop\\Project\\design\\Zen-ish\\Zen-ish\\Zen-ish.csproj",
+        "packagesPath": "C:\\Users\\Jordan Ketterling\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jordan Ketterling\\Desktop\\Project\\design\\Zen-ish\\Zen-ish\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jordan Ketterling\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zen-ish", "Zen-ish\Zen-ish.csproj", "{3FC3D610-0A9F-492C-8BE1-AA6BA6A4BA18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zen-ish.Model", "Zen-ish.Model\Zen-ish.Model.csproj", "{5D7A6D85-F606-4C8F-94CB-C9F531109FE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FC3D610-0A9F-492C-8BE1-AA6BA6A4BA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FC3D610-0A9F-492C-8BE1-AA6BA6A4BA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FC3D610-0A9F-492C-8BE1-AA6BA6A4BA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FC3D610-0A9F-492C-8BE1-AA6BA6A4BA18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D7A6D85-F606-4C8F-94CB-C9F531109FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D7A6D85-F606-4C8F-94CB-C9F531109FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D7A6D85-F606-4C8F-94CB-C9F531109FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D7A6D85-F606-4C8F-94CB-C9F531109FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F77B01FA-4234-4D49-A3AD-5BAE83A300E1}
+	EndGlobalSection
+EndGlobal

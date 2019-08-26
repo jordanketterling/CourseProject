@@ -1,0 +1,8 @@
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish\bin\Debug\netcoreapp2.2\Zen-ish.deps.json
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish\bin\Debug\netcoreapp2.2\Zen-ish.runtimeconfig.json
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish\bin\Debug\netcoreapp2.2\Zen-ish.runtimeconfig.dev.json
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish\bin\Debug\netcoreapp2.2\Zen-ish.dll
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish\obj\Debug\netcoreapp2.2\Zen-ish.csprojAssemblyReference.cache
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish\obj\Debug\netcoreapp2.2\Zen-ish.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish\obj\Debug\netcoreapp2.2\Zen-ish.AssemblyInfoInputs.cache
+C:\Users\Jordan Ketterling\Desktop\Project\design\Zen-ish\Zen-ish\obj\Debug\netcoreapp2.2\Zen-ish.AssemblyInfo.cs
