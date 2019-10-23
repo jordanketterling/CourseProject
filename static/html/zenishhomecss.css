@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
+blockquote{
+  font-size: 1.4em;
+  width:60%;
+  margin:50px auto;
+  font-family:Open Sans;
+  font-style:italic;
+  color: #ffffff;
+  padding:1.2em 30px 1.2em 75px;
+  border-left:8px solid rgb(255, 255, 255) ;
+  line-height:1.6;
+  position: relative;
+  background:rgb(63, 63, 63);
+}
+
+blockquote::before{
+  font-family:Arial;
+  content: "\201C";
+  color:rgb(255, 255, 255);
+  font-size:4em;
+  position: absolute;
+  left: 10px;
+  top:-10px;
+}
+
+blockquote::after{
+  content: '';
+}
+
+blockquote span{
+  display:block;
+  color:#ffffff;
+  font-style: normal;
+  font-weight: bold;
+  margin-top:1em;
+}
+
+#buttondiv {margin-top: 20px}
+#buttonlearn {border-radius: 12px}
+#buttonzazen {border-radius: 12px}
+#buttonwisdom {border-radius: 12px}
