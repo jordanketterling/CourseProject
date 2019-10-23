@@ -6,4 +6,4 @@ There are three core functions of the page.
 2. "koan" - Collection of paradoxes that are traditional practice in Zen, which are pondered upon and break up the common perspective of a situation.
 3. "wisdom" - Quotes that I have hand-selected from famous Zen/Buddhist Masters throughout time that have profound wisdom and understanding.
 
-The goal of this project is that someobody could log on to the page, and within a fair amount of time be able have a simple grasp of Zen. From this I hope that it will bring some clarity and peace for the viewer.
+The goal of this project is that someobody could log on to the page, and within a fair amount of time be able have a simple grasp of Zen. From this, I hope that it will bring some clarity and peace for the viewer.
