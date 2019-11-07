@@ -10,7 +10,7 @@ namespace ConsoleApp.SqlServer
 
         public DbSet<Lessons> Lesson { get; set; }
 
-        public DbSet<Meditations> Meditation { get; set; }
+        public DbSet<Koans> Koan { get; set; }
 
         public DbSet<Wise> Wisdom { get; set; }
 
@@ -37,12 +37,10 @@ namespace ConsoleApp.SqlServer
         public int UserID { get; set; }
     }
 
-    public class Meditations
+    public class Koans
     {
-        public int MeditationId { get; set; }
-        public int Date { get; set; }
-        public int Length { get; set; }
-        public int Rating { get; set; }
+        public int KoanId { get; set; }
+        public int Koan { get; set; }
         public int UserID { get; set; }
     }
 

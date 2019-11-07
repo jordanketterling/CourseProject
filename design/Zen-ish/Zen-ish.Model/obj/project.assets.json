@@ -3578,24 +3578,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jordan Ketterling\\.nuget\\packages\\": {},
+    "C:\\Users\\jorda\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jordan Ketterling\\Desktop\\Project\\design\\Zen-ish\\Zen-ish.Model\\Zen-ish.Model.csproj",
+      "projectUniqueName": "C:\\Users\\jorda\\OneDrive\\Desktop\\gitRepos\\CourseProject\\design\\Zen-ish\\Zen-ish.Model\\Zen-ish.Model.csproj",
       "projectName": "Zen-ish.Model",
-      "projectPath": "C:\\Users\\Jordan Ketterling\\Desktop\\Project\\design\\Zen-ish\\Zen-ish.Model\\Zen-ish.Model.csproj",
-      "packagesPath": "C:\\Users\\Jordan Ketterling\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jordan Ketterling\\Desktop\\Project\\design\\Zen-ish\\Zen-ish.Model\\obj\\",
+      "projectPath": "C:\\Users\\jorda\\OneDrive\\Desktop\\gitRepos\\CourseProject\\design\\Zen-ish\\Zen-ish.Model\\Zen-ish.Model.csproj",
+      "packagesPath": "C:\\Users\\jorda\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jorda\\OneDrive\\Desktop\\gitRepos\\CourseProject\\design\\Zen-ish\\Zen-ish.Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jordan Ketterling\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\jorda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
